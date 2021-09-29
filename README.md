@@ -18,3 +18,16 @@ Examples:
 
 - [Here](https://github.com/lin-br/javando-do-lin/blob/master/codewars/src/main/java/com/tilmais/kata/SortAndStar.java) you can see the result.
 - [Here](https://github.com/lin-br/javando-do-lin/blob/master/codewars/src/test/java/com/tilmais/kata/SortAndStarTest.java) you can see the test results.
+
+### [Kata] "Split Strings" from CodeWars :white_check_mark:
+Complete the solution so that it splits the string into pairs of two characters. If the string contains an odd number of characters then
+it should replace the missing second character of the final pair with an underscore ('_').
+
+Examples:
+```text
+  StringSplit.solution("abc") // should return {"ab", "c_"}
+  StringSplit.solution("abcdef") // should return {"ab", "cd", "ef"}
+```
+
+- [Here](https://github.com/lin-br/javando-do-lin/blob/master/codewars/src/main/java/com/tilmais/kata/SplitStringByTwoLetters.java) you can see the result.
+- [Here](https://github.com/lin-br/javando-do-lin/blob/master/codewars/src/test/java/com/tilmais/kata/SplitStringByTwoLettersTest.java) you can see the test results.
