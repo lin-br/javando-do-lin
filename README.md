@@ -20,6 +20,7 @@ Examples:
 - [Here](https://github.com/lin-br/javando-do-lin/blob/master/codewars/src/test/java/com/tilmais/kata/SortAndStarTest.java) you can see the test results.
 
 ### [Kata] "Split Strings" from CodeWars :white_check_mark:
+The description [this challenge](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001) is:
 Complete the solution so that it splits the string into pairs of two characters. If the string contains an odd number of characters then
 it should replace the missing second character of the final pair with an underscore ('_').
 
@@ -31,3 +32,17 @@ Examples:
 
 - [Here](https://github.com/lin-br/javando-do-lin/blob/master/codewars/src/main/java/com/tilmais/kata/SplitStringByTwoLetters.java) you can see the result.
 - [Here](https://github.com/lin-br/javando-do-lin/blob/master/codewars/src/test/java/com/tilmais/kata/SplitStringByTwoLettersTest.java) you can see the test results.
+
+### [Kata] "Fake Binary" from CodeWars :white_check_mark:
+The description [this challenge](https://www.codewars.com/kata/57eae65a4321032ce000002d) is:
+Given a string of digits, you should replace any digit below 5 with '0' and any digit 5 and above with '1'. Return the resulting string.
+
+Examples:
+```text
+  FakeBinary.fakeBin("45385593107843568") // should return "01011110001100111"
+  FakeBinary.fakeBin("509321967506747") // should return "101000111101101"
+  FakeBinary.fakeBin("366058562030849490134388085") // should return "011011110000101010000011011"
+```
+
+- [Here](https://github.com/lin-br/javando-do-lin/blob/master/codewars/src/main/java/com/tilmais/kata/FakeBinary.java) you can see the result.
+- [Here](https://github.com/lin-br/javando-do-lin/blob/master/codewars/src/test/java/com/tilmais/kata/FakeBinaryTest.java) you can see the test results.
