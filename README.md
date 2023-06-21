@@ -46,3 +46,16 @@ Examples:
 
 - [Here](https://github.com/lin-br/javando-do-lin/blob/master/codewars/src/main/java/com/tilmais/kata/FakeBinary.java) you can see the result.
 - [Here](https://github.com/lin-br/javando-do-lin/blob/master/codewars/src/test/java/com/tilmais/kata/FakeBinaryTest.java) you can see the test results.
+
+### [Kata] Convert string camel case to snake case :white_check_mark:
+Given a string in camel case, you should convert that to the string in snake case.
+
+Examples:
+```text
+  "toDo" // should return "to_do"
+  "aBc" // should return "a_bc"
+  "shouldReturnSnakeCase" // should return "should_return_snake_case"
+```
+
+- [Here](https://github.com/lin-br/javando-do-lin/blob/master/codewars/src/main/java/com/tilmais/kata/SnakeCaseConverter.java) you can see the result.
+- [Here](https://github.com/lin-br/javando-do-lin/blob/master/codewars/src/test/java/com/tilmais/kata/ConvertCamelCaseToSnakeCaseTest.java) you can see the test results.
